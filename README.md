@@ -1,4 +1,4 @@
-Collection of scripts for visualizing  WgnSmChip high throughput NGS data
+Collection of scripts for visualizing  WgnSmChip high throughput qPCR data
 The seaborn module must be installed before running
 
 data_analysis_bar_chart_ct.py
